@@ -46,5 +46,4 @@ export class NewFaceSnapComponent implements OnInit {
       tap(() => this.router.navigateByUrl('/facesnaps'))
     ).subscribe();
   }
-
 }
